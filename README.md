@@ -1,70 +1,53 @@
-![Header](https://github.com/InspectorDanko/InspectorDanko/blob/main/assets/Banner.gif?raw=true)
+<div align="center">
+  <img src="assets/banner-selected.gif" alt="Onlyuncia — бизнес- и системный анализ">
+</div>
 
-## Hi, I'm an aspiring QA Engineer
+---
 
-### About me
-I'm a QA-Engineer with non-profit testing experience.
-My goal is to become a leading QA-Engineer,
-by continuously improving my professional skills and knowledge.
-I plan to participate in the development of innovative products and to
-contribute to the improvement of software quality.
+## `// кто я`
 
-### [My CV](https://disk.yandex.ru/i/Wir285cDL3EkEQ) 
-***
-## My stack
+Я бизнес-аналитик и системный аналитик.
 
-### Test Documentation
-![Jira](https://img.shields.io/badge/-Jira-000000?style=for-the-badge&logo=Jira&logoColor=2684FF)
-![Confluence](https://img.shields.io/badge/-Confluence-000000?style=for-the-badge&logo=Confluence&logoColor=0081F7)
-![Swagger](https://img.shields.io/badge/-Swagger-000000?style=for-the-badge&logo=Swagger&logoColor=7CEB4D)
+Проектирую цифровые сервисы: разбираю процессы и данные, формулирую требования, описываю взаимодействие систем и довожу решения до понятных команде сценариев и критериев приёмки.
 
-### Web Application Testing
-![Postman](https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=Postman&logoColor=FE6C37)
-![DevTools](https://img.shields.io/badge/-devtools-000000?style=for-the-badge&logo=GoogleChrome&logoColor=2684FF)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=E5532D)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=2684FF)
+Фокус: процессы · данные · требования · взаимодействие систем · критерии приёмки
 
-### Sniffers
-![Charles Proxy](https://img.shields.io/badge/-Charles_Proxy-000000?style=for-the-badge&logo=Charles&logoColor=E5532D)
-![Fiddler](https://img.shields.io/badge/-Fiddler-000000?style=for-the-badge&logo=Fiddler&logoColor=2684FF)
-![Postman Interceptor](https://img.shields.io/badge/-Postman_Interceptor-000000?style=for-the-badge&logo=Postman&logoColor=2684FF)
+---
 
-### Virtualization 
-![Oracle VM](https://img.shields.io/badge/-Virtual_Box-000000?style=for-the-badge&logo=VirtualBox&logoColor=F3E7E5)
+## `// проект: Grafio`
 
-### Containerization
-![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=Docker&logoColor=2684FF)
+**Grafio** — аналитический сервис для продавцов маркетплейсов. Проектирование с нуля: от подключения кабинетов и синхронизации данных до раздела РНП с дневными и недельными показателями, товаров, планов и редактируемого дашборда. Отдельно проработал контроль расчётов, роли сотрудников и административный процесс изменения методики.
 
-### Database
-![MySQL](https://img.shields.io/badge/-Mysql-000000?style=for-the-badge&logo=Mysql&logoColor=088181)
-![MS Access](https://img.shields.io/badge/-MS_Access-000000?style=for-the-badge&logo=&logoColor=2684FF)
+> [!NOTE]
+> В материалах Grafio отдельно обозначено, что реализовано в сервисе, а что представлено как целевое решение и прототип.
 
-### Code
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git&logoColor=FF3F1E)
-![GitHub](https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=222222)
-![Bash](https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=GNUBash&logoColor=FEFEFE)
+### `[+]` Что внутри [репозитория](https://github.com/onlyuncia/grafio-product-docs)
 
-### OS
-![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=Linux&logoColor=F6F7F5)
-![Windows](https://img.shields.io/badge/-Windows-000000?style=for-the-badge&logo=Windows&logoColor=F6F7F5)
-***
-### Testing Documentation
+| `ID` Артефакт | `>_` Что там |
+|:--|:--|
+| `[01]` [Требования](https://github.com/onlyuncia/grafio-product-docs/tree/main/docs/requirements) | Требования и критерии приёмки |
+| `[02]` [Архитектура](https://github.com/onlyuncia/grafio-product-docs/tree/main/docs/architecture) | Архитектура и диаграммы |
+| `[03]` [Процессы](https://github.com/onlyuncia/grafio-product-docs/blob/main/docs/processes/bpmn-index.md) | BPMN-процессы |
+| `[04]` [Данные](https://github.com/onlyuncia/grafio-product-docs/tree/main/docs/data) | Модель данных и описание показателей |
+| `[05]` [API](https://github.com/onlyuncia/grafio-product-docs/blob/main/docs/api/openapi.json) | OpenAPI-контракт |
+| `[06]` [Прототип](https://github.com/onlyuncia/grafio-product-docs/tree/main/prototype) | Демонстрационный прототип |
 
-- [Test-Suites and Test-Cases](https://github.com/InspectorDanko/Test-Cases)
-- [Checklists](https://github.com/InspectorDanko/Checklists)
-- [Bug Reports](https://github.com/InspectorDanko/Bug-Reports)
-- [SQL Queries](https://github.com/InspectorDanko/SQL-Queries)
-- [Postman Collections](https://github.com/InspectorDanko/Postman-Collections)
-***
-### Follow Me
-[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=2BA4DF)](https://t.me/danko_bako)
-[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=FE640B)](https://www.instagram.com/danko.185?igsh=MXJxMzd3Mm5ianozNw%3D%3D&utm_source=qr)
-[![VK](https://img.shields.io/badge/-VK-000000?style=for-the-badge&logo=VK&logoColor=0F7FFE)](https://vk.com/danko.bako)
-***
-### My Certificates
-[Software testing from scratch. Theory + Practise](https://disk.yandex.ru/d/6Pn_wZzSn1xhLw)
-***
-### My Stats
-[![InspectorDanko's GitHub stats](https://github-readme-stats.vercel.app/api?username=InspectorDanko&show_icons=true&bg_color=000000&rank_icon=github&icon_color=FFFFFF&text_color=FFFFFF&title_color=FFFFFF&hide_border=true)](https://github.com/InspectorDanko/github-readme-stats)
-***
+---
+
+## `// инструменты`
+
+| `ID` Область | `>_` Инструменты |
+|:--|:--|
+| `[PM]` Задачи и документация | Jira, Confluence |
+| `[BPM]` Моделирование процессов | BPMN 2.0 |
+| `[UML]` Диаграммы и архитектура | Use Case, Sequence, C4, draw.io |
+| `[DAT]` Данные | SQL (PostgreSQL), Excel / Google Sheets, ERD, модели данных, диаграммы состояний |
+| `[API]` API и интеграции | REST / JSON, OpenAPI 3.1, Swagger, Postman, брокеры сообщений (Kafka / RabbitMQ ) |
+| `[DES]` Дизайн и схемы | Figma, Miro |
+| `[AI]` ИИ | Прототипирование (ChatGPT, Claude, Cursor) |
+| `[GIT]` Версионирование | Git, GitHub |
+
+---
+
+<div align="center"><code>// onlyuncia </code></div>
 
