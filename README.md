@@ -30,7 +30,7 @@
 | `[03]` [Процессы](https://github.com/onlyuncia/grafio-product-docs/blob/main/docs/processes/bpmn-index.md) | BPMN-процессы |
 | `[04]` [Данные](https://github.com/onlyuncia/grafio-product-docs/tree/main/docs/data) | Модель данных и описание показателей |
 | `[05]` [API](https://github.com/onlyuncia/grafio-product-docs/blob/main/docs/api/openapi.json) | OpenAPI-контракт |
-| `[06]` [Прототип](https://github.com/onlyuncia/grafio-product-docs/tree/main/prototype) | Демонстрационный прототип |
+| `[06]` [Прототип](https://onlyuncia.github.io/grafio-product-docs/) | Демонстрационный прототип |
 
 ---
 
