@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.gif" alt="Onlyuncia — бизнес- и системный анализ">
+  <img src="assets/banner.webp" alt="Onlyuncia — бизнес- и системный анализ">
 </div>
 
 ---
