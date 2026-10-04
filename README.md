@@ -2,52 +2,43 @@
   <img src="assets/banner.webp" alt="Onlyuncia — бизнес- и системный анализ">
 </div>
 
----
+</div> <img src="assets/divider.png" alt="" width="100%" /> 
+<img src="assets/h-about.png" alt="Обо мне" width="100%" />
 
-## `// кто я`
+**Фулстек-аналитик (БА/СА).**
+ 
+Проектирую цифровые сервисы: разбираю процессы и данные, формулирую требования, описываю взаимодействие систем и довожу решения до понятных команде сценариев и критериев приёмки.
+ 
+**Фокус:** процессы · данные · требования · взаимодействие систем · критерии приёмки
 
-**Фулстек-аналитик (БА/СА)**
-
-**Проектирую цифровые сервисы**: разбираю процессы и данные, формулирую требования, описываю взаимодействие систем и довожу решения до понятных команде сценариев и критериев приёмки.
-
-**Фокус**: процессы · данные · требования · взаимодействие систем · критерии приёмки
-
----
-
-## `// проект: Grafio`
-
-**Grafio** — аналитический сервис для продавцов маркетплейсов. Проектирование с нуля: от подключения кабинетов и синхронизации данных до раздела РНП с дневными и недельными показателями, товаров, планов и редактируемого дашборда. Отдельно проработал контроль расчётов, роли сотрудников и административный процесс изменения методики.
-
-> [!NOTE]
-> В материалах Grafio отдельно обозначено, что реализовано в сервисе, а что представлено как целевое решение и прототип.
+<img src="assets/h-grafio.png" alt="Проект Grafio" width="100%" />
+**Grafio** — аналитический сервис для продавцов маркетплейсов. Проектировал его с нуля: от подключения кабинетов и синхронизации данных до раздела РНП с дневными и недельными показателями, товаров, планов и редактируемого дашборда. Отдельно проработал контроль расчётов, роли сотрудников и административный процесс изменения методики.
 
 ### `[+]` Что внутри [репозитория](https://github.com/onlyuncia/grafio-product-docs)
 
-| `ID` Артефакт | `>_` Что там |
+| | |
 |:--|:--|
-| `[01]` [Требования](https://github.com/onlyuncia/grafio-product-docs/tree/main/docs/requirements) | Требования и критерии приёмки |
-| `[02]` [Архитектура](https://github.com/onlyuncia/grafio-product-docs/tree/main/docs/architecture) | Архитектура и диаграммы |
-| `[03]` [Процессы](https://github.com/onlyuncia/grafio-product-docs/blob/main/docs/processes/bpmn-index.md) | BPMN-процессы |
-| `[04]` [Данные](https://github.com/onlyuncia/grafio-product-docs/tree/main/docs/data) | Модель данных и описание показателей |
-| `[05]` [API](https://github.com/onlyuncia/grafio-product-docs/blob/main/docs/api/openapi.json) | OpenAPI-контракт |
-| `[06]` [Прототип](https://onlyuncia.github.io/grafio-product-docs/) | Демонстрационный прототип |
+| [**Требования**](https://github.com/onlyuncia/grafio-product-docs/tree/main/docs/requirements) | требования и критерии приёмки |
+| [**Архитектура**](https://github.com/onlyuncia/grafio-product-docs/tree/main/docs/architecture) | C4, sequence, ADR |
+| [**Процессы**](https://github.com/onlyuncia/grafio-product-docs/blob/main/docs/processes/bpmn-index.md) | BPMN: AS-IS и TO-BE |
+| [**Данные**](https://github.com/onlyuncia/grafio-product-docs/tree/main/docs/data) | модель данных и описание показателей |
+| [**API**](https://github.com/onlyuncia/grafio-product-docs/blob/main/docs/api/openapi.json) | OpenAPI-контракт |
+| [**Прототип**](https://github.com/onlyuncia/grafio-product-docs/tree/main/prototype) | демонстрационный прототип |
+| [**Экраны**](https://github.com/onlyuncia/grafio-product-docs/tree/main/screenshots) | скриншоты основных разделов |
 
----
+<img src="assets/h-tools.png" alt="Инструменты" width="100%" />
 
-## `// инструменты`
-
-| `ID` Область | `>_` Инструменты |
+| | |
 |:--|:--|
-| `[PM]` Задачи и документация | Jira, Confluence |
-| `[BPM]` Моделирование процессов | BPMN 2.0 |
-| `[UML]` Диаграммы и архитектура | Use Case, Sequence, C4, draw.io |
-| `[DAT]` Данные | SQL (PostgreSQL), Excel / Google Sheets, ERD, модели данных, диаграммы состояний |
-| `[API]` API и интеграции | REST / JSON, OpenAPI 3.1, Swagger, Postman, брокеры сообщений (Kafka / RabbitMQ ) |
-| `[DES]` Дизайн и схемы | Figma, Miro |
-| `[AI]` ИИ | Прототипирование (ChatGPT, Claude, Cursor) |
-| `[GIT]` Версионирование | Git, GitHub |
-
----
-
-<div align="center"><code>// onlyuncia </code></div>
+| **Задачи и документация** | Jira, Confluence |
+| **Процессы** | BPMN 2.0 |
+| **Диаграммы** | PlantUML (Use Case, sequence, C4), Mermaid, draw.io |
+| **Данные** | SQL (PostgreSQL), Excel / Google Sheets, ERD, логические модели, диаграммы состояний |
+| **API и интеграции** | REST / JSON, OpenAPI 3.1, SwaggerHub, Postman, брокеры сообщений |
+| **Дизайн и схемы** | Figma, Miro |
+| **Нейросети** | ChatGPT, Claude, Cursor: прототипирование по моим требованиям и сценариям |
+| **Версионирование** | Git, GitHub |
+ 
+<br/>
+<img src="assets/divider.png" alt="" width="100%" />
 
