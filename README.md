@@ -2,7 +2,6 @@
   <img src="assets/banner.webp" alt="Onlyuncia — бизнес- и системный анализ">
 </div>
 
-</div> <img src="assets/divider.webp" alt="" width="100%" /> 
 <img src="assets/h-about.webp" alt="Обо мне" width="100%" />
 
 **Фулстек-аналитик (БА/СА).**
