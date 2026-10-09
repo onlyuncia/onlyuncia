@@ -2,8 +2,8 @@
   <img src="assets/banner.webp" alt="Onlyuncia — бизнес- и системный анализ">
 </div>
 
-</div> <img src="assets/divider.png" alt="" width="100%" /> 
-<img src="assets/h-about.png" alt="Обо мне" width="100%" />
+</div> <img src="assets/divider.webm" alt="" width="100%" /> 
+<img src="assets/h-about.webm" alt="Обо мне" width="100%" />
 
 **Фулстек-аналитик (БА/СА).**
  
@@ -11,7 +11,7 @@
  
 **Фокус:** процессы · данные · требования · взаимодействие систем · критерии приёмки
 
-<img src="assets/h-grafio.png" alt="Проект Grafio" width="100%" />
+<img src="assets/h-grafio.webm" alt="Проект Grafio" width="100%" />
 
 [**Grafio**](https://github.com/onlyuncia/grafio-product-docs) — аналитический сервис для продавцов маркетплейсов. Проектировал его с нуля: от подключения кабинетов и синхронизации данных до раздела РНП с дневными и недельными показателями, товаров, планов и редактируемого дашборда. Отдельно проработал контроль расчётов, роли сотрудников и административный процесс изменения методики.
 
@@ -25,7 +25,7 @@
 | [**Прототип**](https://github.com/onlyuncia/grafio-product-docs/tree/main/prototype) | демонстрационный прототип |
 | [**Экраны**](https://github.com/onlyuncia/grafio-product-docs/tree/main/screenshots) | скриншоты основных разделов |
 
-<img src="assets/h-tools.png" alt="Инструменты" width="100%" />
+<img src="assets/h-tools.webm" alt="Инструменты" width="100%" />
 
 | | |
 |:--|:--|
@@ -39,5 +39,5 @@
 | **Версионирование** | Git, GitHub |
  
 <br/>
-<img src="assets/divider.png" alt="" width="100%" />
+<img src="assets/divider.webm" alt="" width="100%" />
 
