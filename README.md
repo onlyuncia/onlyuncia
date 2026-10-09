@@ -24,8 +24,6 @@
 | [**Прототип**](https://github.com/onlyuncia/grafio-product-docs/tree/main/prototype) | демонстрационный прототип |
 | [**Экраны**](https://github.com/onlyuncia/grafio-product-docs/tree/main/screenshots) | скриншоты основных разделов |
 
-<img src="assets/h-marginpilot.svg" alt="Проект MarginPilot" width="100%" />
-
 [**MarginPilot**](https://github.com/onlyuncia/marginpilot-product-docs) — внутренняя система для оценки экономики SKU, управления ценами и участием товаров в акциях Ozon. Я собирал требования и проектировал функции, которые помогают менеджеру проверить цену до отправки, осознанно подтвердить исключение и сверить результат по каждому SKU. В кейсе также показано, как плановая экономика сопоставляется с продажами и фактическими расходами.
 
 | | |
