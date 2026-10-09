@@ -24,6 +24,20 @@
 | [**Прототип**](https://github.com/onlyuncia/grafio-product-docs/tree/main/prototype) | демонстрационный прототип |
 | [**Экраны**](https://github.com/onlyuncia/grafio-product-docs/tree/main/screenshots) | скриншоты основных разделов |
 
+<img src="assets/h-marginpilot.svg" alt="Проект MarginPilot" width="100%" />
+
+[**MarginPilot**](https://github.com/onlyuncia/marginpilot-product-docs) — внутренняя система для оценки экономики SKU, управления ценами и участием товаров в акциях Ozon. Я собирал требования и проектировал функции, которые помогают менеджеру проверить цену до отправки, осознанно подтвердить исключение и сверить результат по каждому SKU. В кейсе также показано, как плановая экономика сопоставляется с продажами и фактическими расходами.
+
+| | |
+|:--|:--|
+| [**Требования**](https://github.com/onlyuncia/marginpilot-product-docs/tree/main/docs) | функции, ограничения и критерии приёмки |
+| [**Архитектура**](https://github.com/onlyuncia/marginpilot-product-docs/blob/main/docs/01-SYSTEM-ARCHITECTURE.md) | контейнерная диаграмма C4 и границы системы |
+| [**Процессы**](https://github.com/onlyuncia/marginpilot-product-docs/blob/main/docs/02-PROCESS-AS-IS-TO-BE.md) | BPMN: до и после внедрения |
+| [**Сценарии**](https://github.com/onlyuncia/marginpilot-product-docs/blob/main/docs/10-USE-CASES.md) | цены, акции и план-факт по SKU |
+| [**Данные**](https://github.com/onlyuncia/marginpilot-product-docs/blob/main/docs/14-DATABASE-SCHEMA.dbml) | проектная модель PostgreSQL в DBML |
+| [**API**](https://github.com/onlyuncia/marginpilot-product-docs/blob/main/docs/15-OPENAPI.json) | реконструированный OpenAPI-контракт |
+| [**Прототип**](https://onlyuncia.github.io/marginpilot-product-docs/#demo) | интерактивное демо на вымышленных данных |
+
 <img src="assets/h-tools.webp" alt="Инструменты" width="100%" />
 
 | | |

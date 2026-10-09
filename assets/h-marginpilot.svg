@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="85" viewBox="0 0 1200 85" role="img" aria-label="Проект MarginPilot">
+  <title>Проект MarginPilot</title>
+  <defs>
+    <pattern id="ticks" width="9" height="28" patternUnits="userSpaceOnUse">
+      <path d="M1 0v19" stroke="#dedede" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect x="285" y="36" width="907" height="17" fill="#f2f2f2"/>
+  <rect x="1176" y="36" width="16" height="17" fill="#555555"/>
+  <rect x="470" y="27" width="174" height="43" fill="#fafafa"/>
+  <rect x="485" y="20" width="110" height="8" fill="#ffffff"/>
+  <rect x="480" y="32" width="156" height="28" fill="url(#ticks)"/>
+  <rect x="0" y="13" width="294" height="8" fill="#eeeeee"/>
+  <rect x="0" y="64" width="294" height="8" fill="#eeeeee"/>
+  <rect x="8" y="19" width="278" height="48" rx="18" fill="#0f0f10" stroke="#777777" stroke-width="2"/>
+  <rect x="22" y="18" width="247" height="4" fill="#ffffff"/>
+  <rect x="1" y="21" width="8" height="14" fill="#777777"/>
+  <rect x="1" y="51" width="8" height="14" fill="#777777"/>
+  <rect x="285" y="20" width="8" height="15" fill="#ffffff"/>
+  <rect x="285" y="51" width="8" height="16" fill="#ffffff"/>
+  <circle cx="30" cy="43" r="9" fill="none" stroke="#d7d7d7" stroke-width="1.5"/>
+  <circle cx="30" cy="43" r="3" fill="#f4f4f4"/>
+  <text x="45" y="49" fill="#f3f3f3" font-family="JetBrains Mono, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="600" letter-spacing="1.8" textLength="223" lengthAdjust="spacingAndGlyphs">ПРОЕКТ MARGINPILOT</text>
+</svg>
