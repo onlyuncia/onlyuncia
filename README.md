@@ -33,7 +33,7 @@
 | **Процессы** | BPMN 2.0 |
 | **Диаграммы** | PlantUML (Use Case, sequence, C4), Mermaid, draw.io |
 | **Данные** | SQL (PostgreSQL), Excel / Google Sheets, ERD, логические модели, диаграммы состояний |
-| **API и интеграции** | REST / JSON, OpenAPI 3.1, SwaggerHub, Postman, брокеры сообщений |
+| **API и интеграции** | REST / JSON, OpenAPI 3.1, Swagger, Postman, брокеры сообщений |
 | **Дизайн и схемы** | Figma, Miro |
 | **Нейросети** | ChatGPT, Claude, Cursor: прототипирование по моим требованиям и сценариям |
 | **Версионирование** | Git, GitHub |
