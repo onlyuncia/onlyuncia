@@ -36,6 +36,18 @@
 | [**API**](https://github.com/onlyuncia/marginpilot-product-docs/blob/main/docs/15-OPENAPI.json) | реконструированный OpenAPI-контракт |
 | [**Прототип**](https://onlyuncia.github.io/marginpilot-product-docs/#demo) | интерактивное демо на вымышленных данных |
 
+[**StockFlow**](https://github.com/onlyuncia/stockflow-product-docs) — бэкофис-система для планирования пополнения запасов на маркетплейсах. На основе опыта в консалтинге я разобрал процесс подсорта и проработал расчёт потребности, распределение доступного товара между площадками и планирование закупки. Менеджер может принять предложение, изменить количества или отказаться от него. В кейсе я связал требования, процессы, модель данных и API, сохранив историю расчёта и решения.
+
+| | |
+|:--|:--|
+| [**Требования**](https://github.com/onlyuncia/stockflow-product-docs/blob/main/docs/03-FUNCTIONAL-REQUIREMENTS.md) | функции, ограничения и критерии приёмки |
+| [**Архитектура**](https://github.com/onlyuncia/stockflow-product-docs/blob/main/docs/06-ARCHITECTURE.md) | C4: контекст, контейнеры и компоненты |
+| [**Процессы**](https://github.com/onlyuncia/stockflow-product-docs/blob/main/docs/01-PROCESS-AS-IS-TO-BE.md) | BPMN: до и после внедрения |
+| [**Сценарии**](https://github.com/onlyuncia/stockflow-product-docs/blob/main/docs/04-USE-CASE.md) | потребность, распределение и решение менеджера |
+| [**Данные**](https://github.com/onlyuncia/stockflow-product-docs/blob/main/docs/07-DATA-MODEL.md) | модель PostgreSQL, Master ERD и DBML |
+| [**API**](https://github.com/onlyuncia/stockflow-product-docs/blob/main/docs/09-OPENAPI.json) | реконструированный OpenAPI-контракт |
+| [**Прототип**](https://github.com/onlyuncia/stockflow-product-docs/tree/main/prototype) | демонстрационный интерфейс на вымышленных данных |
+
 <img src="assets/h-tools.webp" alt="Инструменты" width="100%" />
 
 | | |
