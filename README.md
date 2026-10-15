@@ -24,6 +24,8 @@
 | [**Прототип**](https://github.com/onlyuncia/grafio-product-docs/tree/main/prototype) | демонстрационный прототип |
 | [**Экраны**](https://github.com/onlyuncia/grafio-product-docs/tree/main/screenshots) | скриншоты основных разделов |
 
+<img src="assets/h-marginpilot.webp" alt="Проект MarginPilot" width="100%" />
+
 [**MarginPilot**](https://github.com/onlyuncia/marginpilot-product-docs) — внутренняя система для оценки экономики SKU, управления ценами и участием товаров в акциях Ozon. Я собирал требования и проектировал функции, которые помогают менеджеру проверить цену до отправки, осознанно подтвердить исключение и сверить результат по каждому SKU. В кейсе также показано, как плановая экономика сопоставляется с продажами и фактическими расходами.
 
 | | |
@@ -35,6 +37,8 @@
 | [**Данные**](https://github.com/onlyuncia/marginpilot-product-docs/blob/main/docs/14-DATABASE-SCHEMA.dbml) | проектная модель PostgreSQL в DBML |
 | [**API**](https://github.com/onlyuncia/marginpilot-product-docs/blob/main/docs/15-OPENAPI.json) | реконструированный OpenAPI-контракт |
 | [**Прототип**](https://onlyuncia.github.io/marginpilot-product-docs/#demo) | интерактивное демо на вымышленных данных |
+
+<img src="assets/h-stockflow.webp" alt="Проект StockFlow" width="100%" />
 
 [**StockFlow**](https://github.com/onlyuncia/stockflow-product-docs) — бэкофис-система для планирования пополнения запасов на маркетплейсах. Во время работы в консалтинговой компании я разобрал процесс подсорта и проработал расчёт потребности, распределение доступного товара между площадками и планирование закупки. Менеджер может принять предложение, изменить количества или отказаться от него. В кейсе я связал требования, процессы, модель данных и API, сохранив историю расчёта и решения.
 
