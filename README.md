@@ -52,6 +52,20 @@
 | [**API**](https://github.com/onlyuncia/stockflow-product-docs/blob/main/docs/09-OPENAPI.json) | реконструированный OpenAPI-контракт |
 | [**Прототип**](https://github.com/onlyuncia/stockflow-product-docs/tree/main/prototype) | демонстрационный интерфейс на вымышленных данных |
 
+<img src="assets/h-storeassist.svg" alt="Проект StoreAssist" width="100%" />
+
+[**StoreAssist**](https://github.com/onlyuncia/storeassist-product-docs) — модуль запроса товара со склада в торговый зал Massimo Dutti. В кейсе я разобрал взаимодействие зала и склада, описал AS-IS / TO-BE и проработал обработку ненайденного товара, отмену и передачу работы коллеге. Связал требования со сценариями и критериями приёмки, подготовил BPMN, диаграмму состояний и интерактивный прототип.
+
+| | |
+|:--|:--|
+| [**Кейс**](https://onlyuncia.github.io/storeassist-product-docs/) | контекст, решения и мой вклад · [PDF](https://github.com/onlyuncia/storeassist-product-docs/blob/main/output/pdf/case-storeassist.pdf) |
+| [**Требования**](https://github.com/onlyuncia/storeassist-product-docs/blob/main/docs/02-REQUIREMENTS.md) | функции, правила и ограничения |
+| [**Процессы**](https://github.com/onlyuncia/storeassist-product-docs/blob/main/docs/01-PROCESS-AS-IS-TO-BE.md) | AS-IS / TO-BE и ответственность участников |
+| [**Диаграммы**](https://github.com/onlyuncia/storeassist-product-docs/blob/main/docs/06-DIAGRAMS.md) | восемь схем: BPMN и состояния запроса |
+| [**Сценарии**](https://github.com/onlyuncia/storeassist-product-docs/blob/main/docs/07-USE-CASES.md) | выдача, отмена, расхождения и передача работы |
+| [**Метрики и приёмка**](https://github.com/onlyuncia/storeassist-product-docs/blob/main/docs/04-METRICS-AND-ACCEPTANCE.md) | план измерения эффекта и критерии приёмки |
+| [**Прототип**](https://onlyuncia.github.io/storeassist-product-docs/prototype/dist/) | интерактивные сценарии на демонстрационных данных |
+
 <img src="assets/h-tools.webp" alt="Инструменты" width="100%" />
 
 | | |
