@@ -52,8 +52,6 @@
 | [**API**](https://github.com/onlyuncia/stockflow-product-docs/blob/main/docs/09-OPENAPI.json) | реконструированный OpenAPI-контракт |
 | [**Прототип**](https://github.com/onlyuncia/stockflow-product-docs/tree/main/prototype) | демонстрационный интерфейс на вымышленных данных |
 
-<img src="assets/h-storeassist.svg" alt="Проект StoreAssist" width="100%" />
-
 [**StoreAssist**](https://github.com/onlyuncia/storeassist-product-docs) — модуль запроса товара со склада в торговый зал Massimo Dutti. В кейсе я разобрал взаимодействие зала и склада, описал AS-IS / TO-BE и проработал обработку ненайденного товара, отмену и передачу работы коллеге. Связал требования со сценариями и критериями приёмки, подготовил BPMN, диаграмму состояний и интерактивный прототип.
 
 | | |
